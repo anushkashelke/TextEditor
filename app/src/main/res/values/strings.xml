@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+
+    <string-array name="Style">
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Normal</item>
+    </string-array>
+</resources>
